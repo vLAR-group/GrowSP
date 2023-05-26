@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/vLAR_Group?style=social)](https://twitter.com/vLAR_Group)
 
 ## GrowSP: Unsupervised Semantic Segmentation of 3D Point Clouds (CVPR 2023)
-[Zihui Zhang]([https://szy-young.github.io/](https://scholar.google.com.hk/citations?hl=en&user=jiwazT8AAAAJ&view_op=list_works&sortby=pubdate)), [Bo Yang](https://yang7879.github.io/), [Bing Wang](https://www.polyu.edu.hk/en/aae/people/academic-staff/dr-wang-bing/), [Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/)
+[Zihui Zhang](https://scholar.google.com.hk/citations?hl=en&user=jiwazT8AAAAJ&view_op=list_works&sortby=pubdate), [Bo Yang](https://yang7879.github.io/), [Bing Wang](https://www.polyu.edu.hk/en/aae/people/academic-staff/dr-wang-bing/), [Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/)
 
 ### Overview
 
