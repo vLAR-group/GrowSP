@@ -13,17 +13,21 @@ We propose the first unsupervised 3D semantic segmentation method, learning from
 <img src="opening.png" alt="drawing" width=800/>
 
 Our method demonstrates promising results on multiple datasets:
-- **S3DIS Dataset**
+
+- ***S3DIS Dataset***
+
 <img src="./s3dis_train.gif" alt="drawing" width=1000/>
 <img src="./s3dis_test.gif" alt="drawing" width=1000/>
 
-- **ScanNet Dataset**
+- ***ScanNet Dataset***
 
-<img src="figures/indoor.gif" alt="drawing" width=1000/>
+<img src="./scannet_train.gif" alt="drawing" width=1000/>
+<img src="./scannet_test.gif" alt="drawing" width=1000/>
 
-- **SemanticKITTI Dataset**
+- ***SemanticKITTI Dataset***
 
-<img src="figures/outdoor.gif" alt="drawing" width=1000/>
+<img src="./semantickitti_train.gif" alt="drawing" width=1000/>
+<img src="./semantickitti_test.gif" alt="drawing" width=1000/>
 
 ### [Full demo (Youtube)](https://www.youtube.com/xxxx)
 
