@@ -25,13 +25,17 @@ Our method demonstrates promising results on multiple datasets:
 
 - ***ScanNet Dataset***
 
+<p align="center">
 <img src="./scannet_train.gif" alt="drawing" width=1000/>
 <img src="./scannet_test.gif" alt="drawing" width=1000/>
+</p>
 
 - ***SemanticKITTI Dataset***
 
+<p align="center">
 <img src="./semantickitti_train.gif" alt="drawing" width=1000/>
 <img src="./semantickitti_test.gif" alt="drawing" width=1000/>
+</p>
 
 ### [Full demo (Youtube)](https://www.youtube.com/xxxx)
 
