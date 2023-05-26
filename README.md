@@ -14,8 +14,8 @@ We propose the first unsupervised 3D semantic segmentation method, learning from
 
 Our method demonstrates promising results on multiple datasets:
 - **S3DIS Dataset**
-| ![z](./s3dis_train.gif)   | ![z](./s3dis_test.gif) |
-| --------------------------------------------- | ----------------------------------------- |
+| ![z](./s3dis_train.gif)      | ![z](./s3dis_test.gif)       |
+| ---------------------------- | ---------------------------- |
 
 - **ScanNet Dataset**
 
