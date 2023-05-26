@@ -10,7 +10,7 @@
 
 We propose the first unsupervised 3D semantic segmentation method, learning from growing superpoints in point clouds.
 
-<img src="overview.png" alt="drawing" width=800/>
+<img src="opening.png" alt="drawing" width=800/>
 
 Our method demonstrates promising results on multiple datasets:
 - **S3DIS Dataset**
