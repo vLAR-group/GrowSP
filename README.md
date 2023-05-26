@@ -37,6 +37,6 @@ Our method demonstrates promising results on multiple datasets:
 <img src="./semantickitti_test.gif" alt="drawing" width=1000/>
 </p>
 
-### [Full demo (Youtube)](https://www.youtube.com/xxxx)
+### [Full demo (Youtube)](https://youtu.be/x_UW7hU3Ows)
 
-<p align="center"> <a href="https://www.youtube.com/watcxxxx"><img src="figures/OGC_thumbnail.png" width=500></a> </p>
+<p align="center"> <a href="https://youtu.be/x_UW7hU3Ows"><img src="./GrowSP_thumbnail.png" width=500></a> </p>
