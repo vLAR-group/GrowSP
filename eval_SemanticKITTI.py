@@ -21,7 +21,7 @@ def parse_args():
                         help='pont cloud data path')
     parser.add_argument('--sp_path', type=str, default='/home/user/SSD2/SemanticKITTI/initial_superpoints/sequences/',
                         help='initial sp path')
-    parser.add_argument('--save_path', type=str, default='/home/user/SSD2/GrowSP/ckpt/SemanticKITTI/',
+    parser.add_argument('--save_path', type=str, default='trained_models/SemanticKITTI/',
                         help='model savepath')
     ###
     parser.add_argument('--bn_momentum', type=float, default=0.02, help='batchnorm parameters')
@@ -123,8 +123,8 @@ def eval(epoch, args):
 if __name__ == '__main__':
 
     args = parse_args()
-    for epoch in range(1, 100):
-        if epoch%70==0:
+    for epoch in range(1, 500):
+        if epoch%400==0:
             o_Acc, m_Acc, s = eval(epoch, args)
             print('Epoch: {:02d}, oAcc {:.2f}  mAcc {:.2f} IoUs'.format(epoch, o_Acc, m_Acc), s)
 
