@@ -139,4 +139,4 @@ CUDA_VISIBLE_DEVICES=0, python train_SemanticKITTI.py
 The output model and log file will be saved in `./ckpt/SemanticKITTI` by default.
 ## 3. Trained models
 The trained models for these three datasets can be found at [here](
-https://drive.google.com/file/d/1pDrUQtlxRA5NzuiAtsWLSq8p1BDh71pH/view?usp=share_link)
+https://drive.google.com/file/d/1Qga6o3NOoE96GZDGusdGJkfpHMqDsy9X/view?usp=sharing)
