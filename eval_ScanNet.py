@@ -18,7 +18,7 @@ def parse_args():
                         help='pont cloud data path')
     parser.add_argument('--sp_path', type=str, default='data/ScanNet/initial_superpoints/',
                         help='initial sp path')
-    parser.add_argument('--save_path', type=str, default='/home/user/SSD/GrowSP/ckpt/ScanNet/',#'ckpt_20_scannet/',
+    parser.add_argument('--save_path', type=str, default='trained_models/ScanNet/',
                         help='model savepath')
     ###
     parser.add_argument('--bn_momentum', type=float, default=0.02, help='batchnorm parameters')
@@ -140,6 +140,6 @@ if __name__ == '__main__':
     args = parse_args()
     print(args)
     for epoch in range(10, 800):
-        if epoch%10==0:
+        if epoch%930==0:
             o_Acc, m_Acc, s = eval(epoch, args)
             print('Epoch: {:02d}, oAcc {:.2f}  mAcc {:.2f} IoUs'.format(epoch, o_Acc, m_Acc), s)
