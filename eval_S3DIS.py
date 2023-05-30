@@ -20,7 +20,7 @@ def parse_args():
                         help='pont cloud data path')
     parser.add_argument('--sp_path', type=str, default='data/S3DIS/initial_superpoints',
                         help='initial superpoint path')
-    parser.add_argument('--save_path', type=str, default='/home/user/SSD2/GrowSP/ckpt/S3DIS_Area5_120-20/',
+    parser.add_argument('--save_path', type=str, default='trained_models/S3DIS/',
                         help='model savepath')
     ###
     parser.add_argument('--bn_momentum', type=float, default=0.02, help='batchnorm parameters')
@@ -142,6 +142,6 @@ if __name__ == '__main__':
 
     args = parse_args()
     for epoch in range(10, 1500):
-        if epoch % 10 == 0:
+        if epoch % 1270 == 0:
             o_Acc, m_Acc, s = eval(epoch, args)
             print('Epoch: {:02d}, oAcc {:.2f}  mAcc {:.2f} IoUs'.format(epoch, o_Acc, m_Acc), s)
