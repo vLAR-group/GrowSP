@@ -1,4 +1,4 @@
-[![arXiv](https://img.shields.io/badge/arXiv-2210.04458-b31b1b.svg)](https://arxiv.org/abs/2210.xxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-2305.16404-b31b1b.svg)](https://arxiv.org/abs/2305.16404)
 ![code visitors](https://visitor-badge.glitch.me/badge?page_id=vLAR-group/GrowSP)
 [![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 [![Twitter Follow](https://img.shields.io/twitter/follow/vLAR_Group?style=social)](https://twitter.com/vLAR_Group)
